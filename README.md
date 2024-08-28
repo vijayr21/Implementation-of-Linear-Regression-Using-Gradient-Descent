@@ -88,7 +88,20 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+DATASET:
+
+![Screenshot 2024-08-28 094001](https://github.com/user-attachments/assets/1699423c-0d72-4923-b3b5-1f0b05eb92d7)
+
+
+Compute cost value:
+
+![Screenshot 2024-08-28 094010](https://github.com/user-attachments/assets/6a6dae5c-2924-404c-831f-0c6ddc83d58a)
+
+
+h(x) Value:
+
+![Screenshot 2024-08-28 094017](https://github.com/user-attachments/assets/9a4d2104-3991-4162-b73b-f0378c2d9ad0)
+
 
 
 ## Result:
